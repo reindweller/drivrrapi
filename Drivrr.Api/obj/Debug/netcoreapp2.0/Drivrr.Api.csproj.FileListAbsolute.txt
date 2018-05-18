@@ -1,0 +1,11 @@
+D:\Arvin\Projects\Drivrr\DrivrrApi2\Drivrr.Api\Drivrr.Api\bin\Debug\netcoreapp2.0\Drivrr.Api.deps.json
+D:\Arvin\Projects\Drivrr\DrivrrApi2\Drivrr.Api\Drivrr.Api\bin\Debug\netcoreapp2.0\Drivrr.Api.runtimeconfig.json
+D:\Arvin\Projects\Drivrr\DrivrrApi2\Drivrr.Api\Drivrr.Api\bin\Debug\netcoreapp2.0\Drivrr.Api.runtimeconfig.dev.json
+D:\Arvin\Projects\Drivrr\DrivrrApi2\Drivrr.Api\Drivrr.Api\bin\Debug\netcoreapp2.0\Drivrr.Api.dll
+D:\Arvin\Projects\Drivrr\DrivrrApi2\Drivrr.Api\Drivrr.Api\bin\Debug\netcoreapp2.0\Drivrr.Api.pdb
+D:\Arvin\Projects\Drivrr\DrivrrApi2\Drivrr.Api\Drivrr.Api\obj\Debug\netcoreapp2.0\Drivrr.Api.csprojResolveAssemblyReference.cache
+D:\Arvin\Projects\Drivrr\DrivrrApi2\Drivrr.Api\Drivrr.Api\obj\Debug\netcoreapp2.0\Drivrr.Api.csproj.CoreCompileInputs.cache
+D:\Arvin\Projects\Drivrr\DrivrrApi2\Drivrr.Api\Drivrr.Api\obj\Debug\netcoreapp2.0\Drivrr.Api.AssemblyInfoInputs.cache
+D:\Arvin\Projects\Drivrr\DrivrrApi2\Drivrr.Api\Drivrr.Api\obj\Debug\netcoreapp2.0\Drivrr.Api.AssemblyInfo.cs
+D:\Arvin\Projects\Drivrr\DrivrrApi2\Drivrr.Api\Drivrr.Api\obj\Debug\netcoreapp2.0\Drivrr.Api.dll
+D:\Arvin\Projects\Drivrr\DrivrrApi2\Drivrr.Api\Drivrr.Api\obj\Debug\netcoreapp2.0\Drivrr.Api.pdb
